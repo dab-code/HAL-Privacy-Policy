@@ -1,33 +1,49 @@
-# Privacy Policy for HAL (Hybrid App Launcher)
+# Privacy Policy for HAL
 
-**Last updated: [dd-mm-yyyy]**
+**Last updated: 9 November 2026**
 
-HAL does **not collect, store, share, or process any personal data**.
+HAL does not collect, share or sell your data. All data stays on your phone.
+HAL has no internet permission. It cannot send data to a server.
 
-## 1. Data Collection
+## 1. Access that HAL uses
 
-We do **not** collect any user data. HAL runs entirely on your device and does not transmit any information to servers or third parties.
+All access is optional. HAL works without it, with fewer features.
 
-## 2. Permissions
+- **Usage access.** HAL reads which apps you use, for how long, and how often
+  you unlock the phone. HAL uses this for screen time, pickups, the daily limit
+  and usage reminders.
+- **Notification access.** HAL reads which apps have notifications, for the
+  notification dots. For apps that you mark as quiet, HAL removes the
+  notification from the notification bar. HAL keeps the app name, the title,
+  the text and the time in a list on your phone. HAL deletes each item after
+  7 days, or when the list has more than 100 items.
+- **Notifications.** HAL shows usage reminders and a message when a break ends.
+- **List of apps.** HAL reads the list of apps that you can open, to show them
+  in the launcher.
 
-HAL does not request access to personal data, such as contacts, location, media, or usage data. Any permissions used are strictly for core launcher functionality (e.g., listing installed apps).
+## 2. Storage and backup
 
-## 3. Third-party Access
+HAL stores your settings and the quiet list on your phone.
+If Android backup is on, Android can copy HAL's settings to your Google account.
+The quiet list is not in the backup. Google stores the backup. HAL cannot read it.
 
-HAL does not use any third-party analytics, advertising SDKs, or external APIs. No data is shared with third parties.
+## 3. Third parties
 
-## 4. Children’s Privacy
+HAL has no ads, no analytics and no tracking. HAL uses no third-party services.
+The "Rate HAL" link opens the Google Play Store. Google Play handles your rating.
 
-HAL does not collect personal information from anyone, including children under the age of 13.
+## 4. Delete your data
 
-## 5. Contact
+Uninstall HAL, or clear the storage of HAL in Android Settings.
+This deletes all HAL data on your phone.
 
-If you have any questions or concerns about this privacy policy, feel free to contact the developer:
+## 5. Children
+
+HAL does not collect personal information from anyone, including children
+under the age of 13.
+
+## 6. Contact
 
 **dab-code**
 **Email:** dannbos6@gmail.com
-**GitHub:** [link to repository](https://github.com/dab-code/HAL-Privacy-Policy)
-
----
-
-This policy may be updated if the app changes in the future, but as of the date above, HAL does not collect or process any user data.
+**GitHub:** https://github.com/dab-code/HAL-Privacy-Policy
