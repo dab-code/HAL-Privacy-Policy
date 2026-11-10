@@ -1,9 +1,10 @@
 # Privacy Policy for HAL
 
-**Last updated: 9 November 2026**
+**Last updated: 10 November 2026**
 
 HAL does not collect, share or sell your data. All data stays on your phone.
 HAL has no internet permission. It cannot send data to a server.
+The source code of HAL is public: https://github.com/dab-code/hal-launcher
 
 ## 1. Access that HAL uses
 
